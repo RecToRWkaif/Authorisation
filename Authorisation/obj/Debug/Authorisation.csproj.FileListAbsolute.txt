@@ -1,0 +1,14 @@
+C:\Users\solop\source\repos\Authorisation\Authorisation\bin\Debug\Authorisation.exe.config
+C:\Users\solop\source\repos\Authorisation\Authorisation\bin\Debug\Authorisation.exe
+C:\Users\solop\source\repos\Authorisation\Authorisation\bin\Debug\Authorisation.pdb
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.csproj.AssemblyReference.cache
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.Login.resources
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.Properties.Resources.resources
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.csproj.GenerateResource.cache
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.csproj.CoreCompileInputs.cache
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.exe
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.pdb
+C:\Users\solop\source\repos\Authorisation\Authorisation\bin\Debug\MySql.Data.dll
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authoris.1D7A1AC7.Up2Date
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.RegisterForm.resources
+C:\Users\solop\source\repos\Authorisation\Authorisation\obj\Debug\Authorisation.MainForm.resources
